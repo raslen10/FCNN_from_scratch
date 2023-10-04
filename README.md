@@ -1,2 +1,2 @@
 # FCNN_from_scratch
-developper modele deep learning: full connected network from scratch
+Deep Learning Model: full connected network from scratch
